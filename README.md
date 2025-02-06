@@ -191,3 +191,7 @@ The **Clean Code Summary** emphasizes the importance of writing clean, maintaina
 - add examples for every section in examples folder
 
 - add content in other languages, every language in separate folder 
+
+## Helpful Links
+
+- [SOLID Principles summary](https://github.com/omaralalwi/solid-principles-summary)
