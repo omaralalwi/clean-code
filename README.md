@@ -176,6 +176,11 @@ Welcome to the **Clean Code Summary** repository! This guide is a distilled vers
 The **Clean Code Summary** emphasizes the importance of writing clean, maintainable, and efficient code. By applying the principles and practices outlined in this guide, you can improve the quality of your code and contribute to the long-term success of your projects. Remember, writing clean code is not just a technical skill; it's a mindset and a commitment to excellence. 💪
 
 ---
+### References
+
+- [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+---
 
 **Happy Coding!** 👩‍💻👨‍💻
 
