@@ -1,12 +1,12 @@
 # Clean Code Summary 📖✨
 
-### Another Languages versions are available
-
-- [arabic](ar/README.md)
+Welcome to the **Clean Code Summary** repository! This guide is a distilled version of Robert C. Martin's seminal book, *"Clean Code: A Handbook of Agile Software Craftsmanship."* Whether you're a seasoned developer or just starting your coding journey, this summary will help you understand the principles of writing clean, maintainable, and efficient code. 💻🚀
 
 ---
 
-Welcome to the **Clean Code Summary** repository! This guide is a distilled version of Robert C. Martin's seminal book, *"Clean Code: A Handbook of Agile Software Craftsmanship."* Whether you're a seasoned developer or just starting your coding journey, this summary will help you understand the principles of writing clean, maintainable, and efficient code. 💻🚀
+### Another Languages versions are available
+
+- [arabic](ar/README.md)
 
 ---
 
